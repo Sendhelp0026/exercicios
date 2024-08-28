@@ -1,2 +1,2 @@
 # exercicios
-exercicios da 1a aula
+exercicios da aula de mobile dev
